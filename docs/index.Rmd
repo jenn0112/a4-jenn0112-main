@@ -5,19 +5,12 @@ date: '2022-11-21'
 output: html_document
 ---
 
-```{r echo=FALSE, eval=TRUE, message=FALSE}
-source("../source/a4-helpers.R")
-source("../source/analysis.R")
 ```
 
 ## Abstract 
 [The Vera institute of Justice had created an Incarceration Trends Dataset. The Vera Institute of Justice works to create and build justice systems that promote equity, safety and to strengthen communities. This data set utilized to inform the public dialogue, advance research and create change to justice policies and practices on mass incarceration.]
  
 
-# Test (TODO: Remove before submission!!)
-```{r echo=FALSE}
-q1_string <- test_query1()
-num <- 5
 ```
 As you know, this is a markdown report. The [R Markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) is **useful!**
 
