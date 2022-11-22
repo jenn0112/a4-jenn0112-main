@@ -64,10 +64,13 @@ mean(incarceration$native_jail_pop, na.rm = TRUE)
 mean(incarceration$white_jail_pop)
 mean(incarceration$white_jail_pop, na.rm = TRUE)
 
+
 Data Summary information: With the values that were calculated with the codes above it shows that the total mean of jail population = 161.12, mean of black jail population= 81.18, mean of latinx jail population = 33.13, mean of native jail population = 2.48, and the mean of white jail population = 90.66. With the means of the total jail population compared to the means of jail populations of different races, It was prominent that there is indeed a pattern of race inequality within the prison system, showing that the there is a huge difference of the means of jail population for different races.
 
 
 [TODO ... other sections ... See Canvas for details]
+
+
 
 _All the very best with your work!_
 
